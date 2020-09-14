@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	linklist "goyard/src/link_list"
+	"goyard/src/linklist"
 )
 
 func main() {
